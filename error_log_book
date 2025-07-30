@@ -1,0 +1,14 @@
+
+While making the Robo-Soccer bot for Team Garuda, we encountered several issues during the design and testing phases. One of the major problems was with **motor alignment**. The motors were not positioned properly with respect to the bot’s **center of mass (CoM)**. Due to this imbalance, the bot would **shake violently** when transitioning from rest to motion or when suddenly stopping. This caused major instability, especially during quick directional changes. The key lesson learned here is to ensure that the motors are placed symmetrically around the actual center of mass of the bot. Even a slight deviation can lead to unpredictable motion behavior.
+
+Another important observation was related to **power supply**. We initially used a low-C rated battery, which couldn’t handle sudden current spikes during rapid movements. This led to **voltage drops** and sometimes even caused the bot to reset. We recommend always carrying **spare batteries** and using batteries with a **higher C-rating** (preferably 25C or above) to maintain performance under load.
+
+In terms of wheels, we started with basic plastic wheels, but they lacked proper grip on the arena surface. This resulted in slipping, especially when turning at high speed. After testing multiple options, we found that **white plastic wheels with a rubber outer layer** provided much better traction. These wheels helped maintain better control and improved the bot's ability to push the ball effectively.
+
+Overall, the main lessons were:
+
+* Align motors properly according to the CoM.
+* Use high C-rated batteries and carry spares.
+* Choose wheels with good friction – preferably rubber-coated plastic wheels.
+
+These small but critical aspects significantly improved the bot's performance during gameplay.
