@@ -1,4 +1,4 @@
-# 🤖 Robo Soccer Bot – Ojass’25 | NIT Jamshedpur ⚽ 
+# 🤖 Robo Soccer Bot – Ojass’25 | NIT Jamshedpur ⚽
 
 Welcome to the documentation of our **Robo Soccer bot** developed for **Ojass’25** at **NIT Jamshedpur**!  
 This little beast was designed, built, and debugged with a lot of passion, late nights, and a few *"why is it going that way?"* moments.
